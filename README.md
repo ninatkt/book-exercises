@@ -4,4 +4,4 @@ This repository contains _all_ programming exercises for the [_Programming Skill
  
 Solutions can be found in the `solution` branch.
 
-Nina is learning as a potential data scientist. 
+Nina will do her best and pass INFO 201, haha. 
